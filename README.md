@@ -1,6 +1,6 @@
 # Voting Chubut Province's Map / "Las Paso 2017" Vote Info System
 
-Voting Chubut Province's Map / "Las Paso 2017" Vote Info System. Development with responsive Coord Map Jquery Plugin and Responsive Bootstrap template - Quick 5 days Development for an Argentinian Client.
+Voting Chubut Province's Map / "Las Paso 2017" Vote Info System. Responsive Coord Map Jquery Plugin and Responsive Bootstrap template Development - Quick 5 days Development for an Argentinian Client.
 
 View Online: http://108.160.150.200/~smetrico/nuevo/index.php
 
